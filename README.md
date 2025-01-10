@@ -1,3 +1,5 @@
+This project investigates deep learning with CNNs, including ResNet-18, VGG-16, MobileNetV2, and EfficientNet-B0, to predict Autism Spectrum Disorder (ASD) from brain scans. EfficientNet-B0 achieved the highest performance, while VGG-16 underperformed due to overfitting, highlighting CNNs' potential in improving ASD diagnosis.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
